@@ -1,0 +1,5 @@
+package com.joshi.project.demo.bean;
+
+public class Limitconfiguration {
+
+}
