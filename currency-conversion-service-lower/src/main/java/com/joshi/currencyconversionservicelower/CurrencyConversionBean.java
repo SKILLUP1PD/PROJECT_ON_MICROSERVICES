@@ -1,4 +1,4 @@
-package com.joshi.currencyconversionservice;
+package com.joshi.currencyconversionservicelower;
 
 import java.math.BigDecimal;
 
@@ -81,3 +81,4 @@ public class CurrencyConversionBean {
         this.port = port;
     }
 }
+
